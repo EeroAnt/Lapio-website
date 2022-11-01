@@ -2,3 +2,27 @@
 h1 { color: blue; }
 .lista { color: pink; }
 #punainen { color: red; }
+.first {
+ color: black;
+ background-color: red;
+ width: 200px;
+ height: 100px;
+ position: absolute;
+ }
+.second {
+ color: black;
+ background-color: yellow;
+ width: 200px;
+ height: 100px;
+ position: absolute;
+ left: 250px;
+ }
+.third {
+ color: black;
+ background-color: green;
+ width: 200px;
+ height: 100px;
+ position: absolute;
+ left: 500px;
+ }
+
