@@ -1,1 +1,4 @@
-p { background-color: red; }
+* { color: brown; }
+h1 { color: blue; }
+.lista { color: pink; }
+#punainen { color: red; }
